@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{FB26224F-F72E-4AE6-9350-530F75BF8D4B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LabOnePartOneResubmit/Program.cs">
+    <Files>
+      <File FileName="LabOnePartOneResubmit/Program.cs" Line="5" Column="18" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.LabOnePartOneResubmit PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
